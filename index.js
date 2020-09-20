@@ -7,3 +7,7 @@ var testBranch = function() {
 var testBranch1 = function () {
     console.log('testBranch');
 }
+
+var  testBranch2 = function() {
+    console.log('devBranch');
+}
